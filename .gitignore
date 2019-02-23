@@ -1,0 +1,10 @@
+.vscode
+stm32-dev.code-workspace
+stlink
+gcc-arm-none-eabi-8-2018-q4-major
+STM32Cube_FW_F1_V1.7.0
+*.o
+*.bin
+*.hex
+*.elf
+*.a
